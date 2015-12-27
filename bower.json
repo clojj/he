@@ -1,0 +1,18 @@
+{
+  "name": "he",
+  "authors": [
+    "clojj"
+  ],
+  "description": "Haskell Editor",
+  "main": "main.js",
+  "license": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test"
+  ],
+  "dependencies": {
+    "codemirror": "5.10"
+  }
+}
